@@ -2,3 +2,4 @@ Hello, my name is Haochen Zhang
 I'm a computer Engineering majored student
 This is my senior year
 I like watching movies and walking my dog.
+Course taking: coen174 coen79 coen163 coen195
